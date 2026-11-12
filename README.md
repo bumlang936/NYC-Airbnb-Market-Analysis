@@ -8,10 +8,10 @@
 
 ### Data Structure Overview:
 
-Source: New York City Airbnb Open Data on Kaggle.
-Size and time frame: 48,895 listings and 16 columns, covering 2019.
-Key fields: price, borough, neighborhood, room type, minimum nights, number of reviews, location coordinates, and days available per year.
-Prep: price capped at $500 on the maps so outliers don’t wash out the color scale.
+- Used "New York City Airbnb Open Data" on Kaggle.
+- There are 48,895 listings and 16 columns.
+- price, borough, neighborhood, room type, minimum nights, number of reviews, location coordinates, and days available per year.
+- Price capped at $500 on the maps so outliers don’t wash out the color scale.
 
 ### Executive Summary:
 
