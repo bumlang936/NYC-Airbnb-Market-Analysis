@@ -1,2 +1,30 @@
-# NYC-Airbnb-Market-Analysis
-Portfolio of data visualization and analytics work from my Applied Data Science MS at Syracuse University. Each project includes a plain-language write-up, code and reflection on turning data into clear, decision-ready visuals. Featuring an NYC Airbnb market analysis. Tools: R, SQL, Tableau, Power BI.
+# NYC Airbnb Market Analysis Final Poster: 
+
+1. Background and Overview:
+
+Problem: Hosts, travelers and analysts can’t see price patterns across thousands of New York City Airbnb listings.
+Questions: Where are the priciest and cheapest listings? How do boroughs compare? Where is availability longest?
+Tools: R (ggplot2, dplyr, sf) for the charts and Adobe Illustrator for the poster layout.
+
+2. Data Structure Overview:
+
+Source: New York City Airbnb Open Data on Kaggle.
+Size and time frame: 48,895 listings and 16 columns, covering 2019.
+Key fields: price, borough, neighborhood, room type, minimum nights, number of reviews, location coordinates, and days available per year.
+Prep: price capped at $500 on the maps so outliers don’t wash out the color scale.
+
+3. Executive Summary:
+
+Location and room type drive price. Manhattan averages about $197 a night versus $88 in the Bronx, and an entire home averages about $212 versus $70 for a shared room.
+
+4. Insights Deep Dive:
+
+Borough averages: Manhattan $197, Brooklyn $124, Staten Island $115, Queens $100, Bronx $88.
+Room type averages: entire home $212, private room $90, shared room $70, so room type creates the bigger gap.
+Most listings fall below roughly $200, with a long tail of luxury listings pulling averages up.
+
+5. Recommendations:
+
+Hosts: benchmark rates by borough and room type.
+Travelers: weigh what location versus room type adds to cost.
+Next steps: add medians, finish the availability analysis, confirm the Bronx appears on both maps, and rebuild as an interactive dashboard.
