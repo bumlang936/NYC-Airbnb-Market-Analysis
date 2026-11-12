@@ -29,17 +29,17 @@
 
 ### 4. Insights Deep Dive:
 
-**Borough averages:** 
+**Borough Averages:** 
 - Manhattan = $197
 - Brooklyn = $124
 - Staten Island = $115
 - Queens = $100
 - Bronx = $88
   
-**Room type averages:** 
-- entire home = $212
-- private room = $90
-- shared room = $70
+**Room Type Averages:** 
+- Entire home = $212
+- Private room = $90
+- Shared room = $70
 
 **Key Observations:**
 - Room type creates a bigger gap in average price.
@@ -48,6 +48,7 @@
 
 ### 5. Recommendations:
 
-Hosts: benchmark rates by borough and room type.
-Travelers: weigh what location versus room type adds to cost.
-Next steps: add medians, finish the availability analysis, confirm the Bronx appears on both maps, and rebuild as an interactive dashboard.
+- **Hosts:** should price against listings in the same borough and room type, not the citywide average.
+- **Travelers:** a private room averages less than half the price of an entire home, so room type can save more than location.
+- **Analysts:** use the maps to pick neighborhoods that deserve a closer look and look for potential outliers and developing trends.
+- **Next steps:** add other visuals like a box plot to show the range of prices, confirm the geospatial coding of New York City looks accurate, and rebuild as an interactive dashboard.
