@@ -2,8 +2,9 @@
 
 ### Background and Overview:
 
-Problem: Hosts, travelers and analysts can’t see price patterns across thousands of New York City Airbnb listings.
-Questions: Where are the priciest and cheapest listings? How do boroughs compare? Where is availability longest?
+**Problem:** Hosts, travelers and analysts can’t see price patterns across thousands of New York City Airbnb listings.
+
+**Questions:** Where are the priciest and cheapest listings? How do boroughs compare? Where is availability longest?
 Tools: R (ggplot2, dplyr, sf) for the charts and Adobe Illustrator for the poster layout.
 
 ### Data Structure Overview:
