@@ -10,7 +10,7 @@
 
 - Used "New York City Airbnb Open Data" on Kaggle.
 - There are 48,895 listings and 16 columns.
-**Key columns:**
+- **Key columns:**
   - price
   - borough
   - neighborhood
