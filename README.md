@@ -1,6 +1,6 @@
 # NYC Airbnb Market Analysis Final Poster: 
 
-1. Background and Overview:
+## 1. Background and Overview:
 
 Problem: Hosts, travelers and analysts can’t see price patterns across thousands of New York City Airbnb listings.
 Questions: Where are the priciest and cheapest listings? How do boroughs compare? Where is availability longest?
