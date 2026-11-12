@@ -10,7 +10,7 @@
 
 - Used "New York City Airbnb Open Data" on Kaggle.
 - There are 48,895 listings and 16 columns.
-- price, borough, neighborhood, room type, minimum nights, number of reviews, location coordinates, and days available per year.
+- **Key columns:** price, borough, neighborhood, room type, minimum nights, number of reviews, location coordinates, and days available per year.
 - Price capped at $500 on the maps so outliers don’t wash out the color scale.
 
 ### Executive Summary:
