@@ -1,4 +1,4 @@
-# NYC Airbnb Market Analysis Final Poster: 
+# **NYC Airbnb Market Analysis Final Poster:** 
 
 ### Background and Overview:
 
