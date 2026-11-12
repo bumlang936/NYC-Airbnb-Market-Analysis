@@ -36,8 +36,14 @@
 - Queens = $100
 - Bronx = $88
   
-Room type averages: entire home $212, private room $90, shared room $70, so room type creates the bigger gap.
-Most listings fall below roughly $200, with a long tail of luxury listings pulling averages up.
+**Room type averages:** 
+- entire home = $212
+- private room = $90
+- shared room = $70
+  
+- Room type creates a bigger gap in average price.
+- Most listings fall below roughly $200.
+- Has a long tail of luxury listings which increase the average price.
 
 ### Recommendations:
 
